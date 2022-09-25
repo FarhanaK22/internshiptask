@@ -1,0 +1,384 @@
+
+/* Rectangle 266 */
+body{
+  /* Investment Details */
+width: 1440px;
+height: 100%;
+padding: 0;
+margin: 0 0 0;
+position: relative;
+background: #000000;
+}
+
+.Rectangle266{
+  height: 45px;
+  width:100%;
+  border-radius: 0;
+  background-color: #F61354;
+  position: absolute;
+  top:0;
+  bottom: 73.84%;
+}
+/* Please link your metamask wallet */
+.toptext{
+width:19%;
+height: 28px;
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 17.9701px;
+line-height: 28px;
+/* identical to box height */
+color: #FFFFFF;
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+}
+
+/* Ellipse 276 */
+.ellipse276{
+background: #FFFFFF;
+}
+.div2{
+ height:14.563rem;
+ float: left; width: 50%;
+}
+.div3{
+  height: 14.563rem;
+  float: right; width: 50%;
+}
+/* Group 1 */
+.group1{
+height: 52.10262680053711px;
+width: 61.05365753173828px;
+border-radius: 0;
+position: absolute;
+left: 6.19rem;
+top: 7.263rem;
+bottom: 3.69%;
+}
+/* ellipse270*/
+.ellipse270{
+position: absolute;
+top: 7.263rem;
+right:5.375rem;
+bottom: 0;
+background: linear-gradient(95deg, #FFFFFF -343.09%, rgba(255, 255, 255, 0) 110.96%);
+border-radius: 10px;}
+
+.div4{
+  width:627px;
+  height:704px;
+  float: left;
+}
+.coverimage{
+  position: absolute;
+  width: 534px;
+  height: 704px;
+  left: 93px;
+  top: 233px;
+}
+.div5{
+position: absolute;
+width: 812px;
+height: 704px;
+left: 692px;
+top: 233px;
+}
+.head2{
+  /*Common share */
+position: absolute;
+width: 289px;
+height: 82px;
+left: 693px;
+top: 233px;
+font-family: 'Zuume';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 81px;
+/* identical to box height, or 177% */
+letter-spacing: 6.78641px;
+color: #FFFFFF;
+}
+
+.font1{
+  font-family: 'Visby CF';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+}
+.grayfont1{
+position: absolute;
+width: 46px;
+height: 12px;
+left: 693px;
+top: 345.44px;
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+letter-spacing: 1px;
+color: #FFFFFF;
+opacity: 0.5;
+}
+.glitch{
+  /* Glitch */
+position: absolute;
+width: 43px;
+height: 12px;
+left: 693px;
+top: 366.44px;
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 12px;
+/* identical to box height, or 86% */
+letter-spacing: 1px;
+color: #FFFFFF;
+}
+
+.purchased{
+/* Purchase Details */
+position: absolute;
+width: 600px;
+height: 492px;
+left: 692px;
+top: 445px;
+opacity: 0.2;
+border: 1px solid #FFFFFF;}
+
+.saletext{
+  /* Sale ends on 20 june, 2022 at 10:30pm, GMT +5:30 */
+position: absolute;
+width: 467px;
+height: 12px;
+left: 728px;
+top: 468px;
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 12px;
+/* identical to box height, or 67% */
+letter-spacing: 1px;
+color: #FFFFFF;
+}
+
+.imagestripe{
+  /* Stripe_logo,_revised_2016 1 */
+position: absolute;
+width: 106.97px;
+height: 48px;
+left: 728px;
+top: 683px;
+background: url(Stripe_logo,_revised_2016);
+border-radius: 10px;
+}
+.rec1{
+  /* Rectangle 185 */
+box-sizing: border-box;
+position: absolute;
+width: 149.14px;
+height: 48px;
+left: 890px;
+top: 683px;
+background: rgba(255, 31, 31, 0.09);
+border-radius: 10px;
+}
+/* Paypal_2014_logo 1 */
+.paypal{
+position: absolute;
+width: 101.33px;
+height: 32px;
+left: 914px;
+top: 691px;
+background: url(Paypal_2014_logo);
+border-radius: 10px;}
+.rec274{
+  /* Rectangle 274 */
+position: absolute;
+width: 16px;
+height: 16px;
+left: 728px;
+top: 803px;
+background: #D9D9D9;
+border-radius: 4px;
+}
+.rec185{
+  /* Rectangle 185 */
+position: absolute;
+width: 174px;
+height: 56px;
+left: 728px;
+top: 841px;
+background: radial-gradient(86.07% 145.35% at 28.05% 86.07%, #3E67FF 0%, #E47298 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+border-radius: 10px;
+}
+.rec185-2{
+  /* Rectangle 185 */
+box-sizing: border-box;
+
+position: absolute;
+width: 174px;
+height: 56px;
+left: 922px;
+top: 841px;
+
+background: rgba(255, 31, 31, 0.11);
+border-radius: 10px;
+}
+.rec268{
+  /* Rectangle 268 */
+position: absolute;
+width: 1197px;
+height: 515px;
+left: 95px;
+top: 1002px;
+opacity: 0.5;
+border: 1px solid #FFFFFF;
+}
+
+.boldtext{
+/* Should we put all four in the description? */
+position: absolute;
+height: 28px;
+left: 11.32%;
+right: 56.29%;
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* identical to box height, or 28px */
+color: #FFFFFF;
+}
+.lorem{
+position: absolute;
+height: 78px;
+left: 11.32%;
+right: 30.84%;
+top:1130px;
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 144%;
+color: #FFFFFF;
+opacity: 0.7;
+}
+
+.hr60{
+  /* Line 60 */
+position: absolute;
+width: 1063px;
+height: 0px;
+left: 163px;
+top: 1248px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.hr61{
+  /* Line 60 */
+position: absolute;
+width: 1063px;
+height: 0px;
+left: 163px;
+top: 1376px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);}
+
+.texthead{
+  /* Terms of Investment */
+position: absolute;
+width: 933.22px;
+height: 23.5px;
+left: 164.94px;
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 12px;
+/* or 67% */
+letter-spacing: 1px;
+color: #FFFFFF;
+
+}
+.hr26{
+  /* Line 26 */
+position: absolute;
+width: 1199px;
+height: 0px;
+left: 93px;
+top: 1637.53px;
+opacity: 0.2;
+border: 1px solid #FFFFFF;
+}
+/* NFT Card - Bid */
+.card{
+position: absolute;
+width: 286.92px;
+height: 330.25px;
+left: 92.95px;
+top: 3767.02px;
+
+background: #121212;
+border-radius: 16.6285px;
+}
+.view{
+  /* VIEW PROJECT */
+
+
+position: absolute;
+width: 98px;
+height: 12px;
+left: 671px;
+top: 4182px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+}
+.foottext{
+position: absolute;
+width: 46px;
+height: 25px;
+left: 108px;
+top: 4320px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+color: #FFFFFF;
+opacity: 0.4;
+padding-bottom: 72px;
+}
+
+.open{
+  position: absolute;
+height: 90px;
+left: 80.62%;
+right: 17.29%;
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 300;
+font-size: 58px;
+line-height: 90px;
+
+color: #FFFFFF;
+}
